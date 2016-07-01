@@ -1,1 +1,1 @@
-# sisint-genect-training
+# genectic-training
